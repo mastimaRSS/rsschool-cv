@@ -54,3 +54,8 @@ h2 {
     border-radius: 50%;
     border: 2px solid #c7c9b0;
 }
+nav {
+    background: rgb(255, 230, 0);
+    border-radius: 5px;
+    height: 25px;
+}
